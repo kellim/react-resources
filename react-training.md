@@ -17,7 +17,7 @@ Note that only some React courses also teach Redux, and there's a Redux course l
 * [Wes Bos: React for Beginners](https://reactforbeginners.com) - Good basic React course using ES6 syntax. After you finish this, the instructor also has a [free Redux course](https://learnredux.com) if your provide your e-mail address.
 * [Treehouse: React Basics](https://teamtreehouse.com/library/react-basics) - Another good basic React course. (Requires monthly subscription. A few libraries offer Treehouse for free.)
 * [Udemy (Stephen Grider): Modern React with Redux](https://www.udemy.com/react-redux)
-* [Udemy (Stephen Grider): Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
+* [Udemy (Stephen Grider): Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - It's an advanced course, so be sure to look at the Requirements section of the page for specifics on what you need to know.
 
 ## Paid Books
 * [Full Stack React](https://www.fullstackreact.com) - You can download the first chapter for free. Their [free book 30 Days of React](https://www.fullstackreact.com/30-days-of-react) is mentioned above.
