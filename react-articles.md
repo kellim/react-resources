@@ -3,3 +3,7 @@
 
 ## State
 * [Beware: React setState is asynchronous!](https://medium.com/@wereHamster/beware-react-setstate-is-asynchronous-ce87ef1a9cf3)
+
+## Keys
+* [Don't Use Index for Keys in React](http://www.automationfuel.com/react-keys-index/)
+* [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
