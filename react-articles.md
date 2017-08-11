@@ -3,6 +3,7 @@
 
 ## State
 * [Beware: React setState is asynchronous!](https://medium.com/@wereHamster/beware-react-setstate-is-asynchronous-ce87ef1a9cf3)
+* [setState is asynchronous](https://medium.learnreact.com/setstate-is-asynchronous-52ead919a3f0)
 * [setState takes a callback](https://medium.learnreact.com/setstate-takes-a-callback-1f71ad5d2296)
 * [setState takes a function](https://medium.learnreact.com/setstate-takes-a-function-56eb940f84b6)
 
