@@ -10,3 +10,6 @@
 ## Keys
 * [Don't Use Index for Keys in React](http://www.automationfuel.com/react-keys-index/)
 * [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
+
+## Organization
+* [How I organize my React & Redux projects](https://medium.com/@bruno__quaresma/how-i-organize-my-react-redux-projects-602990f6d0f0)
