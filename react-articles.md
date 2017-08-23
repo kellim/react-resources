@@ -1,6 +1,9 @@
 # React Articles
 * [9 Things every React Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 
+## Props
+* [React Properties](https://medium.com/react-tutorials/react-properties-ef11cd55caa0)
+
 ## State
 * [Beware: React setState is asynchronous!](https://medium.com/@wereHamster/beware-react-setstate-is-asynchronous-ce87ef1a9cf3)
 * [setState is asynchronous](https://medium.learnreact.com/setstate-is-asynchronous-52ead919a3f0)
