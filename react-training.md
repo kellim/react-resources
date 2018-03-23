@@ -11,12 +11,11 @@ Note that only some React courses also teach Redux, and there's a Redux course l
 * [Full Stack React: 30 Days of React](https://www.fullstackreact.com/30-days-of-react/) - Downloading the book as a PDF requires providing your e-mail address.
 * [SurviveJS (Free Online Version)](https://survivejs.com/webpack/preface/)
 
-## Paid Training Courses 
-* [Udacity: React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) - courses include React Fundamentals, React & Redux, and React Native. (Disclosure: I'm a mentor for the program)
-* [Wes Bos: React for Beginners](https://reactforbeginners.com) - Good basic React course using ES6 syntax. After you finish this, the instructor also has a [free Redux course](https://learnredux.com) if your provide your e-mail address.
-* [Treehouse: React Basics](https://teamtreehouse.com/library/react-basics) - Another good basic React course. (Requires monthly subscription. A few libraries offer Treehouse for free.)
+## Paid Training Courses
 * [Udemy (Stephen Grider): Modern React with Redux](https://www.udemy.com/react-redux)
 * [Udemy (Stephen Grider): Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) - It's an advanced course, so be sure to look at the Requirements section of the page for specifics on what you need to know.
+* [Wes Bos: React for Beginners](https://reactforbeginners.com) - Good basic React course using ES6 syntax. After you finish this, the instructor also has a [free Redux course](https://learnredux.com) if your provide your e-mail address.
+* [Treehouse: React Basics](https://teamtreehouse.com/library/react-basics) - Another good basic React course. (Requires monthly subscription. A few libraries offer Treehouse for free.)
 * [Tyler McGinnis React Courses](https://tylermcginnis.com/) - subscribe and get access to courses on React Fundamentals, Modern JavaScript, Redux, React Native, React Router, and Universal React
 
 ## Paid Books
