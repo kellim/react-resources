@@ -16,3 +16,6 @@
 
 ## Organization
 * [How I organize my React & Redux projects](https://medium.com/@bruno__quaresma/how-i-organize-my-react-redux-projects-602990f6d0f0)
+
+## Naming
+* [Event Handler Naming in React](https://jaketrent.com/post/naming-event-handlers-react/)
